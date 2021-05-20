@@ -8,3 +8,5 @@ INERTIAL-RELATED STUFF
 
 **FindCurvRadiusGivenSemistep** function returns the radius of curvature given a half distance between three points taken along the path, that is the radius of the osculating circle calculated as a circumference passing through three points.
 
+
+** graphPartial** function return partial derivatives of a graph given its coordinates. Movmean filtered derivatives and sign of the derivatives are optional ouputs.
